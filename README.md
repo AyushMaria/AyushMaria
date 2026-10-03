@@ -15,7 +15,7 @@
 
 - 🛸 Building **drone tooling**: hardware ground control and LLM-powered flight-log analysis
 - 🤖 Into **AI agents and applied ML**: LLM workflows, computer vision and sports analytics
-- 🏓 I own **Vibe & Volley**, a pickleball venue in Sambhajinagar, and built its booking site and WhatsApp AI concierge
+- 🏓 Built a booking site and WhatsApp AI concierge for **Vibe & Volley**, a pickleball venue in Chhatrapati Sambhajinagar.
 - 🏘️ My portfolio is a fantasy village where every building is a project. [Take a walk →](https://ayushmaria.github.io/ayush-settlement/)
 
 ### 🛠️ Stack
