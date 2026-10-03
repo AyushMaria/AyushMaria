@@ -15,8 +15,8 @@
 
 - 🛸 Building **drone tooling**: hardware ground control and LLM-powered flight-log analysis
 - 🤖 Into **AI agents and applied ML**: LLM workflows, computer vision and sports analytics
-- 🏓 Shipped a **live court-booking app** for a pickleball venue in Pune
-- 🏘️ My portfolio is a fantasy village where every building is a project. [Take a walk →](https://ayushmaria.github.io/)
+- 🏓 I own **Vibe & Volley**, a pickleball venue in Sambhajinagar, and built its booking site and WhatsApp AI concierge
+- 🏘️ My portfolio is a fantasy village where every building is a project. [Take a walk →](https://ayushmaria.github.io/ayush-settlement/)
 
 ### 🛠️ Stack
 
@@ -37,7 +37,7 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**Ace-booking-concierge**](https://github.com/AyushMaria/Ace-booking-concierge) | WhatsApp AI agent that handles court bookings, cancellations, FAQs and admin reports | LangGraph · Gemini · FastAPI · Twilio · pgvector |
+| [**Ace-booking-concierge**](https://github.com/AyushMaria/Ace-booking-concierge) | WhatsApp AI agent for my venue, Vibe & Volley: handles bookings, cancellations, FAQs and admin reports | LangGraph · Gemini · FastAPI · Twilio · pgvector |
 | [**Vortex-Core-Detection**](https://github.com/AyushMaria/Vortex-Core-Detection) | Detects vortex cores in fluid-flow images with YOLOv5 plus an AdaBoost ensemble | Python · YOLOv5 · scikit-learn · XGBoost |
 | [**Expected-xG-Goals-Football**](https://github.com/AyushMaria/Expected-xG-Goals-Football) | MSc thesis: end-to-end xG model for FC Barcelona on StatsBomb data | Python · pandas · scikit-learn |
 
@@ -45,7 +45,7 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**vibe-volley-fresh**](https://github.com/AyushMaria/vibe-volley-fresh) · [live ↗](https://vibe-volley-fresh.vercel.app) | Real-time court booking with promo codes, admin dashboard and email confirmations | React · Supabase · Vercel |
+| [**vibe-volley-fresh**](https://github.com/AyushMaria/vibe-volley-fresh) · [live ↗](https://vibe-volley-fresh.vercel.app) | Live booking site for Vibe & Volley, with real-time slots, promo codes, an admin dashboard and email confirmations | React · Supabase · Vercel |
 | [**Distributed-Computing-AWS**](https://github.com/AyushMaria/Distributed-Computing-AWS) | Parallel matrix addition and multiplication across EC2 nodes, benchmarked for cost and speed | C++ · MPI · AWS EC2 |
 | [**attendance-fileserver**](https://github.com/AyushMaria/attendance-fileserver) | Attendance and roster management with auth and scheduled jobs | Flask · PostgreSQL · APScheduler |
 
