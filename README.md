@@ -16,7 +16,7 @@
 - 🛸 Building **drone tooling**: hardware ground control and LLM-powered flight-log analysis
 - 🤖 Into **AI agents and applied ML**: LLM workflows, computer vision and sports analytics
 - 🏓 Shipped a **live court-booking app** for a pickleball venue in Pune
-- 🏘️ My portfolio is a fantasy village where every building is a project. [Take a walk →](https://ayushmaria.github.io/ayush-settlement/)
+- 🏘️ My portfolio is a fantasy village where every building is a project. [Take a walk →](https://ayushmaria.github.io/)
 
 ### 🛠️ Stack
 
