@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=7C9CFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayush+Maria+%F0%9F%91%8B;Drones+%C2%B7+ML+%C2%B7+Full-stack;I+build+things+that+fly%2C+learn+and+ship" alt="Typing intro" />
 
 <p>
-  <a href="https://ayushmaria.github.io/ayush-settlement/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=githubpages&logoColor=white" /></a>
+  <a href="https://ayushmaria.github.io/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=githubpages&logoColor=white" /></a>
   <a href="https://x.com/ayushmaria"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
